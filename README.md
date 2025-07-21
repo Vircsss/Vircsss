@@ -53,8 +53,8 @@
 
 
 ### 🧩 Curiosidades sobre mim
-### 🎓 Estudante de Desenvolvimento
-
+🎓 Estudante de Desenvolvimento
+ 
 💡 Amante de interfaces bem feitas e código limpo
 
 📍 Focado em Front-End e expandindo pro Full-Stack
