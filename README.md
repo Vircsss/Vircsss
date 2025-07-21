@@ -51,9 +51,6 @@
 
 ---
 
-> Feito com 💜 por **Vinicius Romaguera Cardozo**  
-> Se curtir algum projeto, deixa uma ⭐ aí!
-
 
 🧩 Curiosidades sobre mim
 🎓 Estudante de Desenvolvimento
