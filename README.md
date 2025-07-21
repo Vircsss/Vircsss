@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Vinicius :wave:</h1>
 
-<!--
-**Vircsss/Vircsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :brain: Mais sobre mim:
+
+```js
+const Vinicius = {
+  name: "Vinicius Romaguera Cardozo",
+  acknowledgements: "Desenvolvedor",
+  primarySkillset: ["TailwindCSS", "TypeScript"],
+  languagesAndTools: [
+    "HTML", "CSS", "JAVASCRIPT", "PYTHON", 
+    "JAVA"
+  ]
+}
