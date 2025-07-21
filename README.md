@@ -52,8 +52,8 @@
 ---
 
 
-🧩 Curiosidades sobre mim
-🎓 Estudante de Desenvolvimento
+###🧩 Curiosidades sobre mim
+###🎓 Estudante de Desenvolvimento
 
 💡 Amante de interfaces bem feitas e código limpo
 
