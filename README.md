@@ -49,11 +49,3 @@
 - 🚀 **Focado em Front-End e expandindo para o Full-Stack**
 - 📚 **Sempre aprendendo e evoluindo**
 
----
-
-
-### 🧩 Curiosidades sobre mim
-- 🎓 Estudante de Desenvolvimento
-- 💡 Amante de interfaces bem feitas e código limpo
-- 📍 Focado em Front-End e expandindo pro Full-Stack
-- 🚀 Sempre aprendendo e evoluindo
