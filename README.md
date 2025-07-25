@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Desenvolvedor-🧠-9b59b6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fullstack-Developer-2ecc71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
