@@ -12,7 +12,7 @@
 
 - 👤 **Nome:** Vinicius Romaguera Cardozo  
 - 💼 **Função:** Desenvolvedor  
-- 🚀 **Stack Principal:** TailwindCSS, Java Script, Java 
+- 🚀 **Stack Principal:** React, Tailwind, Python, SQL
 - 🛠️ **Linguagens e Ferramentas:**  
   `HTML`, `CSS`, `JavaScript`, `Python`, `Java`
 
